@@ -1,7 +1,7 @@
 build:
  version:"1.0.0"
-
- accounts:
+ 
+accounts:
   message: "welcome to java express related to api's"
   contactDetails:
    name: "vinith developer"
