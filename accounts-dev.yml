@@ -1,5 +1,14 @@
 build:
  version:"2.0.0"
+
+ accounts:
+  message: "welcome to java express related to api's"
+  contactDetails:
+   name: "Nagaraj developer"
+   email: "nani81556@gmail.com:
+  onCallSupport:
+   -(555) 555-1234
+   -(555) 555-1234
 eureka:
   client:
     fetch-registry: true
