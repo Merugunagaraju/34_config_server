@@ -1,14 +1,3 @@
-build:
- version:"1.0.0"
-
-accounts:
-  message: "welcome to java express related to api's"
-  contactDetails:
-   name: "vinith developer"
-   email: "vinith@gmail.com:
-  onCallSupport:
-   -(555) 555-1234
-   -(555) 555-1234
 eureka:
   client:
     fetch-registry: true
